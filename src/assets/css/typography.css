@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+
+body {
+    font-family: Raleway;
+}
+
+.titre {
+    font-weight: 100;
+    font-family: 'Fredericka the Great';
+    font-size: 6.25rem;
+    color: #7B4F2F;
+}
+
+header a {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: black;
+    background: url(/assets/img/illustration/image_page_espace_pro.png);
+}
+
+p {
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+h4 {
+    font-size: 1.5rem;
+}
+a {
+    color: #7B4F2F;
+    text-decoration: underline;
+}
+.erreur p {
+    font-size: 1.9vw;
+}
+.erreur h2 {
+    color: #7B4F2F;
+    font-size: 3.6vw;;
+}
+.card h3 {
+    font-family: 'Fredericka the Great';
+    font-weight: 200;
+    color: #7B4F2F;
+    font-size: 1.8em;
+    margin-top: 20px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-bottom: 0;
+}
+.card h4 {
+    color: #7B4F2F;
+    font-weight: 100;
+    font-size: 1em;
+    margin-top: 5px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.card p {
+    font-size: 1.3em;
+    margin-left: 6%;
+    margin-right: 6%;
+    font-weight: 300;
+}
+.card a {
+    font-size: 1.3em;
+    margin-left: 6%;
+    text-decoration: none;
+}
+.article h1 {
+    font-weight: 100;
+    font-family: 'Fredericka the Great';
+    font-size: 4em;
+    color: #7B4F2F;
+}
+.article h3 {
+    font-weight: 100;
+    font-family: 'Fredericka the Great';
+    font-size: 2em;
+    color: #7B4F2F;
+}
+.article h4 {
+    font-size: 1.2em;
+    font-weight: 100;
+    color: #7B4F2F;
+}
+.autres-articles p, .autres-articles h4 {
+    color: black;
+  }
+
+  a:hover {
+      text-decoration: none;
+      color: initial;
+  }
+
+  footer a:hover {
+      text-decoration: none;
+      color: rgb(180, 180, 180);
+  }
